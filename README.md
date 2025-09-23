@@ -1,4 +1,4 @@
-# Hi there, I'm Kimberly 👋
+# Hi I'm Kimberly 
 
 Welcome to my GitHub profile!  
 I'm passionate about **web development**, **cybersecurity**, and learning new technologies. <br>
@@ -30,7 +30,7 @@ Just a girl in tech.
 ## 🌱 About Me
 - 🌍 Based in Kenya  
 - 💻 Interested in **Web Development** & **Cybersecurity**  
-- 🚀 Currently learning **advanced web design**  
+- 🚀 Currently working on an ecommerce project 
 - 📫 Reach me on: chiveliperu@gmail.com or www.linkedin.com/in/kimberly-chiveli
 - ## ☕ Support Me
 If you like my work, consider buying me a coffee!
