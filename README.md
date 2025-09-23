@@ -4,6 +4,17 @@ Welcome to my GitHub profile!
 I'm passionate about **web development**, **cybersecurity**, and learning new technologies. <br>
 Just a girl in tech.
 
+## 🌱 About Me
+- 🌍 Based in Kenya  
+- 💻 Interested in **Web Development** & **Cybersecurity**  
+- 🚀 Currently working on an ecommerce project 
+- 📫 Reach me on: chiveliperu@gmail.com or www.linkedin.com/in/kimberly-chiveli
+- 🧾 My portfolio: http://bit.ly/4610EWk
+- <a href="http://bit.ly/4610EWk" target="_blank">
+  <img src="https://img.shields.io/badge/My%20Portfolio-Click%20Here-blue?style=for-the-badge" />
+</a>
+
+
 ---
 
 ## 📊 GitHub Stats
@@ -27,11 +38,6 @@ Just a girl in tech.
 
 ---
 
-## 🌱 About Me
-- 🌍 Based in Kenya  
-- 💻 Interested in **Web Development** & **Cybersecurity**  
-- 🚀 Currently working on an ecommerce project 
-- 📫 Reach me on: chiveliperu@gmail.com or www.linkedin.com/in/kimberly-chiveli
 - ## ☕ Support Me
 If you like my work, consider buying me a coffee!
 
