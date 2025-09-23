@@ -9,10 +9,7 @@ Just a girl in tech.
 - 💻 Interested in **Web Development** & **Cybersecurity**  
 - 🚀 Currently working on an ecommerce project 
 - 📫 Reach me on: chiveliperu@gmail.com or www.linkedin.com/in/kimberly-chiveli
-- 🧾 My portfolio:  
-<a href="http://bit.ly/4610EWk" target="_blank">
-  <img src="https://img.shields.io/badge/-Visit%20Portfolio-violet?style=for-the-badge&logo=google-chrome" />
-</a>
+-🧾 My portfolio: <a href="http://bit.ly/4610EWk" target="_blank"><img src="https://img.shields.io/badge/-Visit%20Portfolio-black?style=for-the-badge&logo=google-chrome" /></a>
 
 
 
