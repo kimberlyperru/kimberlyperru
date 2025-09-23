@@ -18,6 +18,14 @@ Just a girl in tech.
 ## 📊 GitHub Stats
 ![Kimberly's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimberlyperru&show_icons=true&theme=radical)
 
+## 📂 Featured Projects  
+[![Plastic Surgeon](https://img.shields.io/badge/-Plastic_Surgeon_Website-orange?style=for-the-badge&logo=html5)](http://bit.ly/4nuOXNp)  
+[![Hotel Management](https://img.shields.io/badge/-Hotel_Management_System-blue?style=for-the-badge&logo=databricks)](http://bit.ly/4nvnUBw)  
+[![Dairy Ecommerce](https://img.shields.io/badge/-Dairy_Ecommerce-green?style=for-the-badge&logo=shopify)](http://bit.ly/47KzoNc)  
+[![Kindergarten Website](https://img.shields.io/badge/-Kindergarten_Website-pink?style=for-the-badge&logo=google-chrome)](https://shorturl.at/V0AuX)  
+[![Travel Agency](https://img.shields.io/badge/-Travel_Agency-purple?style=for-the-badge&logo=bootstrap)](https://shorturl.at/WWGqy)  
+
+
 ## 🔥 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimberlyperru&layout=compact&theme=radical)
 
@@ -35,15 +43,6 @@ Just a girl in tech.
 </p>
 
 ---
-## 📂 Featured Projects
-
-[![Plastic Surgeon](https://img.shields.io/badge/-Web_Design_Project-purple?style=for-the-badge&logo=html5)](http://bit.ly/4nuOXNp)
-[![Hotelt](https://img.shields.io/badge/-Cybersecurity_Toolkit-red?style=for-the-badge&logo=linux)](http://bit.ly/4nvnUBw)
-[![Dairy Ecommerce](https://img.shields.io/badge/-Data_Dashboard-purple?style=for-the-badge&logo=python)](http://bit.ly/47KzoNc)
-[![Kindergarten](https://img.shields.io/badge/-Data_Dashboard-red?style=for-the-badge&logo=python)](https://shorturl.at/V0AuX )
-[![Travel agency](https://img.shields.io/badge/-Data_Dashboard-purple?style=for-the-badge&logo=python)](https://shorturl.at/WWGqy)
-
-
 
 - ## ☕ Support Me
 If you like my work, consider buying me a coffee!
