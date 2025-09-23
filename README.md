@@ -8,7 +8,7 @@ Just a girl in tech.
 - 🌍 Based in Kenya  
 - 💻 Interested in **Web Development** & **Cybersecurity**  
 - 🚀 Currently working on an ecommerce project 
-- 📫 Reach me on: chiveliperu@gmail.com or www.linkedin.com/in/kimberly-chiveli
+- 📫 Reach me on: chiveliperu@gmail.com or www.linkedin.com/in/kimberly-chiveli <br>
 -🧾 My portfolio: <a href="http://bit.ly/4610EWk" target="_blank"><img src="https://img.shields.io/badge/-Visit%20Portfolio-black?style=for-the-badge&logo=google-chrome" /></a>
 
 
@@ -35,6 +35,15 @@ Just a girl in tech.
 </p>
 
 ---
+## 📂 Featured Projects
+
+[![Plastic Surgeon](https://img.shields.io/badge/-Web_Design_Project-purple?style=for-the-badge&logo=html5)](http://bit.ly/4nuOXNp)
+[![Hotelt](https://img.shields.io/badge/-Cybersecurity_Toolkit-red?style=for-the-badge&logo=linux)](http://bit.ly/4nvnUBw)
+[![Dairy Ecommerce](https://img.shields.io/badge/-Data_Dashboard-purple?style=for-the-badge&logo=python)](http://bit.ly/47KzoNc)
+[![Kindergarten](https://img.shields.io/badge/-Data_Dashboard-red?style=for-the-badge&logo=python)](https://shorturl.at/V0AuX )
+[![Travel agency](https://img.shields.io/badge/-Data_Dashboard-purple?style=for-the-badge&logo=python)](https://shorturl.at/WWGqy)
+
+
 
 - ## ☕ Support Me
 If you like my work, consider buying me a coffee!
