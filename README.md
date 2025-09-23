@@ -1,7 +1,7 @@
 # Hi there, I'm Kimberly 👋
 
 Welcome to my GitHub profile!  
-I'm passionate about **web development**, **cybersecurity**, and learning new technologies.
+I'm passionate about **web development**, **cybersecurity**, and learning new technologies. <br>
 Just a girl in tech.
 
 ---
