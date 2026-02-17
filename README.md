@@ -1,55 +1,60 @@
-# Hi I'm Kimberly 
+# <p align="center">Hi, I'm Kimberly 👩‍💻</p>
 
-Welcome to my GitHub profile!  
-I'm passionate about **web development**, **cybersecurity**, and learning new technologies. <br>
-Just a girl in tech.
-
-## 🌱 About Me
-- 🌍 Based in Kenya  
-- 💻 Interested in **Web Development** & **Cybersecurity**  
-- 🚀 Currently working on an ecommerce project 
-- 📫 Reach me on: chiveliperu@gmail.com or www.linkedin.com/in/kimberly-chiveli <br>
--🧾 My portfolio: <a href="http://bit.ly/4610EWk" target="_blank"><img src="https://img.shields.io/badge/-Visit%20Portfolio-black?style=for-the-badge&logo=google-chrome" /></a>
-
-
-
----
-
-## 📊 GitHub Stats
-![Kimberly's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimberlyperru&show_icons=true&theme=radical)
-
-## 📂 Featured Projects  
-[![Plastic Surgeon](https://img.shields.io/badge/-Plastic_Surgeon_Website-orange?style=for-the-badge&logo=html5)](http://bit.ly/4nuOXNp)  
-[![Hotel Management](https://img.shields.io/badge/-Hotel_Management_System-blue?style=for-the-badge&logo=databricks)](http://bit.ly/4nvnUBw)  
-[![Dairy Ecommerce](https://img.shields.io/badge/-Dairy_Ecommerce-green?style=for-the-badge&logo=shopify)](http://bit.ly/47KzoNc)  
-[![Kindergarten Website](https://img.shields.io/badge/-Kindergarten_Website-pink?style=for-the-badge&logo=google-chrome)](https://shorturl.at/V0AuX)  
-[![Travel Agency](https://img.shields.io/badge/-Travel_Agency-purple?style=for-the-badge&logo=bootstrap)](https://shorturl.at/WWGqy)  
-
-
-## 🔥 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimberlyperru&layout=compact&theme=radical)
-
----
-## 🛠️ Languages & Tools  
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39FF14&center=true&vCenter=true&width=435&lines=Web+Developer;Cybersecurity+Enthusiast;Just+a+girl+in+tech;Building+the+future..." alt="Typing SVG" />
 </p>
 
 ---
 
-- ## ☕ Support Me
-If you like my work, consider buying me a coffee!
+### 🖥️ [System Status: Online]
+> `WHOAMI`: A developer based in **Kenya** 🌍 passionate about building secure, scalable web applications. Currently obsessed with the intersection of **clean UI** and **hardened security**.
 
-[![Buy Me a Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/kimberlyperru)
-
-  
+- **🔭 Project Phase:** Currently architecting a sleek Ecommerce platform.
+- **🛡️ Focus:** Web Vulnerabilities & Secure Coding.
+- **📫 Reach Me:** [Email](mailto:chiveliperu@gmail.com) | [LinkedIn](https://www.linkedin.com/in/kimberly-chiveli)
+- **⚡ Fun Fact:** I believe every line of code should be as beautiful as it is secure.
 
 ---
-⭐️ Thanks for visiting my profile!
+
+### 🛠️ My Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,php,mysql,git,bootstrap,tailwind,figma" />
+</p>
+
+---
+
+### 📂 Featured Operations (Projects)
+| Project | Tech Stack | Status |
+| :--- | :--- | :--- |
+| **Plastic Surgeon** | `HTML/CSS` | [Live Demo](http://bit.ly/4nuOXNp) |
+| **Hotel Management** | `PHP/MySQL` | [View Code](http://bit.ly/4nvnUBw) |
+| **Dairy Ecommerce** | `Shopify/Web` | [Live Store](http://bit.ly/47KzoNc) |
+| **Kindergarten Web** | `Web Design` | [Explore](https://shorturl.at/V0AuX) |
+
+---
+
+### 📊 Tactical Data (Stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kimberlyperru&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimberlyperru&layout=compact&theme=radical&hide_border=true" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kimberlyperru&theme=radical&hide_border=true" />
+</p>
+
+---
+
+### 🐍 The Contribution Snake
+![Snake Animation](https://github-user-contents.githubusercontent.com/snk.svg)
+
+---
+
+### ☕ Support My Journey
+If you find my work helpful (or just like my vibe), feel free to fuel my caffeine addiction!
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/kimberlyperru)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kimberlyperru&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
+</p>
